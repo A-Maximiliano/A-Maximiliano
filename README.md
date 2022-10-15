@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 , soy Max Navarro</h1>
 <h3 align="center">Un apasionado desarrollador backend de Costa Rica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-maximiliano&label=Profile%20views&color=0e75b6&style=flat" alt="a-maximiliano" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-maximiliano" alt="a-maximiliano" /></a> </p>
+
 
 - 🌱 Actualmente estoy aprendiendo **C#,.Net, Azure, Scrum.**
 
