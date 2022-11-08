@@ -27,7 +27,7 @@ de blogs BLOG-POST-LIST:START -->
 <a href="https://dev.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrian maximiliano navarro fernandez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrian maximiliano navarro fernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian maximiliano navarro fernandez" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Idiomas y herramientas:</h3>
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,angular,azure,js,java,c,linux,mysql,git&theme=dark)](https://skills.thijs.gg)
 
 <!-- <h3 align="left">Idiomas y herramientas:</h3>
@@ -43,9 +43,9 @@ de blogs BLOG-POST-LIST:START -->
 </div>
   
   
- ![Snake animation](https://github.com/yasssuz/yasssu/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/yasssuz/yasssuz/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-maximiliano&show_icons=true&locale=en&layout=compact" alt="a-maximiliano" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-maximiliano&show_icons=true&locale=en&layout=compact" alt="a-maximiliano" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-maximiliano&show_icons=true&locale=en" alt="a-maximiliano" /></p> 
 
