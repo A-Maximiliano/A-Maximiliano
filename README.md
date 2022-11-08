@@ -14,10 +14,10 @@
 
 maxnavarro01@outlook.com**
 
-- 📄 Conoce mis experiencias [http://maxnaf.epizy.com](http://maxnaf.epizy.com)
+- 📄 Conoce mis experiencias [Reume Max](http://maxnaf.epizy.com)
 
-### Entradas
-de blogs<!-- BLOG-POST-LIST:START -->
+<!-- ### Entradas
+de blogs BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Conecte conmigo:</h3>
