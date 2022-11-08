@@ -20,8 +20,8 @@
 de blogs BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Glad to see you here!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yasssuz.todo-app)
+## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=yasssuz.todo-app)
+
 
 <h3 align="left">Conecte conmigo:</h3>
 <p align="left">
