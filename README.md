@@ -12,7 +12,7 @@
 
 - 💬 Pregúntame sobre **C#, VS, SQL, Git, HTML, CSS, Javascript.**
  
-- 📫 Cómo contactarme ** maxnavarro01@outlook.com**
+- 📫 Cómo contactarme  **maxnavarro01@outlook.com**
 
 - 📄 Conoce mis experiencias [Reume Max](http://maxnaf.epizy.com)
 
