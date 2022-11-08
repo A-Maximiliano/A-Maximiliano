@@ -27,7 +27,8 @@ de blogs BLOG-POST-LIST:START -->
 <a href="https://dev.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrian maximiliano navarro fernandez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrian maximiliano navarro fernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian maximiliano navarro fernandez" height="30" width="40" /></a>
 </p>
-<h3 align="left">Idiomas y herramientas:</h3>
+
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,angular,azure,js,java,c,linux,mysql,git&theme=dark)](https://skills.thijs.gg)
 
 <!-- <h3 align="left">Idiomas y herramientas:</h3>
