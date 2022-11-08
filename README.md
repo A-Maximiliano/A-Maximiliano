@@ -8,13 +8,13 @@
 
 - 🤝 Estoy buscando ayuda con **C#, Azure, SQL, Scrum, Javascript, Angular, Nodejs.**
 
-- 👨 💻 Todos mis cursos y experiencia profesional están disponibles en [Reume Max](http://maxnaf.epizy.com)
+- 👨 💻 Todos mis cursos y experiencia profesional están disponibles en [Resume Max](http://maxnaf.epizy.com)
 
 - 💬 Pregúntame sobre **C#, VS, SQL, Git, HTML, CSS, Javascript.**
  
 - 📫 Cómo contactarme  **maxnavarro01@outlook.com**
 
-- 📄 Conoce mis experiencias [Reume Max](http://maxnaf.epizy.com)
+- 📄 Conoce mis experiencias [Resume Max](http://maxnaf.epizy.com)
 
 <!-- ### Entradas
 de blogs BLOG-POST-LIST:START -->
