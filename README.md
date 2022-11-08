@@ -8,7 +8,7 @@
 
 - 🤝 Estoy buscando ayuda con **C#, Azure, SQL, Scrum, Javascript, Angular, Nodejs.**
 
-- 👨 💻 Todos mis cursos y experiencia profesional están disponibles en [http://maxnaf.epizy.com](http://maxnaf.epizy.com)
+- 👨 💻 Todos mis cursos y experiencia profesional están disponibles en [Reume Max](http://maxnaf.epizy.com)
 
 - 💬 Pregúntame sobre **C#, VS, SQL, Git, HTML, CSS, Javascript.**- 📫 Cómo contactarme **
 
